@@ -79,11 +79,11 @@ fade();
 			<?php echo $nav['nav_title'];?></a><?php }}}?>|
 			<a href="<?php echo urlmall('link');?>">友情链接</a>|<a href="http://www.feiwa.org">FeiWa</a></p>
 
-   <div class="copy_right">
+   <!--<div class="copy_right">
      ©2016 feiwa.org 
     <a href="http://www.feiwa.org/" style="color:#0fcfe1;">FeiWa</a> <?php echo $output['setting_config']['icp_number']; ?>  客户服务中心(7×24):0539-8889333<br />
 <?php echo $output['setting_config']['feiwa_version'];?>-<?php echo $output['setting_config']['version'];?>
-   </div> 
+   </div> -->
   </div> 
  </div> 
 </div>
