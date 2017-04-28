@@ -11,18 +11,6 @@ $show_article=array (
     array (
       0 => 
       array (
-        'article_id' => '35',
-        'ac_id' => '1',
-        'article_url' => 'http://www.feiwa.org/',
-        'ac_code' => 'notice',
-        'article_position' => '1',
-        'article_title' => 'FeiWa火热销售中',
-        'article_time' => '1449242303',
-        'ac_name' => '商城公告',
-        'ac_parent_id' => '0',
-      ),
-      1 => 
-      array (
         'article_id' => '36',
         'ac_id' => '1',
         'article_url' => '',
@@ -33,7 +21,7 @@ $show_article=array (
         'ac_name' => '商城公告',
         'ac_parent_id' => '0',
       ),
-      2 => 
+      1 => 
       array (
         'article_id' => '37',
         'ac_id' => '1',
@@ -45,7 +33,7 @@ $show_article=array (
         'ac_name' => '商城公告',
         'ac_parent_id' => '0',
       ),
-      3 => 
+      2 => 
       array (
         'article_id' => '38',
         'ac_id' => '1',
@@ -57,7 +45,7 @@ $show_article=array (
         'ac_name' => '商城公告',
         'ac_parent_id' => '0',
       ),
-      4 => 
+      3 => 
       array (
         'article_id' => '41',
         'ac_id' => '1',
@@ -402,18 +390,6 @@ $article_list=array (
         'ac_code' => 'about',
         'article_position' => '1',
         'article_title' => '联系我们',
-        'article_time' => '1449242303',
-        'ac_name' => '关于我们',
-        'ac_parent_id' => '0',
-      ),
-      3 => 
-      array (
-        'article_id' => '22',
-        'ac_id' => '7',
-        'article_url' => '',
-        'ac_code' => 'about',
-        'article_position' => '1',
-        'article_title' => '关于FeiWa',
         'article_time' => '1449242303',
         'ac_name' => '关于我们',
         'ac_parent_id' => '0',

@@ -1,2 +1,156 @@
 <?php defined('ByFeiWa') or exit('Access Invalid!'); return array (
+  'data' => 
+  array (
+    1058 => 
+    array (
+      'gc_id' => '1058',
+      'gc_name' => '贵州特产',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1059 => 
+    array (
+      'gc_id' => '1059',
+      'gc_name' => '食品饮料、酒类、',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '1',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1060 => 
+    array (
+      'gc_id' => '1060',
+      'gc_name' => '修文特产',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1058',
+      'commis_rate' => '0',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1062 => 
+    array (
+      'gc_id' => '1062',
+      'gc_name' => '余庆特产',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1058',
+      'commis_rate' => '0',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1061 => 
+    array (
+      'gc_id' => '1061',
+      'gc_name' => '赤水特产',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1058',
+      'commis_rate' => '0',
+      'gc_sort' => '1',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1063 => 
+    array (
+      'gc_id' => '1063',
+      'gc_name' => '贵州名酒',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1059',
+      'commis_rate' => '0',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1065 => 
+    array (
+      'gc_id' => '1065',
+      'gc_name' => '猕猴桃',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1059',
+      'commis_rate' => '0',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+    1064 => 
+    array (
+      'gc_id' => '1064',
+      'gc_name' => '茗茶',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1059',
+      'commis_rate' => '0',
+      'gc_sort' => '1',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+      'show_type' => '1',
+    ),
+  ),
+  'parent' => 
+  array (
+    1058 => '0',
+    1059 => '0',
+    1060 => '1058',
+    1062 => '1058',
+    1061 => '1058',
+    1063 => '1059',
+    1065 => '1059',
+    1064 => '1059',
+  ),
+  'children' => 
+  array (
+    0 => 
+    array (
+      0 => '1058',
+      1 => '1059',
+    ),
+    1058 => 
+    array (
+      0 => '1060',
+      1 => '1062',
+      2 => '1061',
+    ),
+    1059 => 
+    array (
+      0 => '1063',
+      1 => '1065',
+      2 => '1064',
+    ),
+  ),
 );

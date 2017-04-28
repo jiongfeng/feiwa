@@ -8,7 +8,7 @@
   'ap_height' => '100',
   'adv_num' => '1',
   'click_num' => '0',
-  'default_content' => '04418235791378401.jpg',
+  'default_content' => '05466065657163011.jpg',
   'adv_list' => 
   array (
     0 => 
@@ -16,7 +16,7 @@
       'adv_id' => '15',
       'ap_id' => '9',
       'adv_title' => '闪购特卖！狂喜',
-      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"05034331849840951.jpg";s:11:"adv_pic_url";s:34:"http://www.demo.feiwa.org/mall/tm.html";}',
+      'adv_content' => 'a:2:{s:7:"adv_pic";s:21:"05466254409619447.jpg";s:11:"adv_pic_url";s:0:"";}',
       'adv_start_date' => '1388505600',
       'adv_end_date' => '1577721600',
       'slide_sort' => '0',
